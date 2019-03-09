@@ -1,6 +1,6 @@
 owner=460606140666085378
 prefix=3
-game=
+game=Perks Music.
 stayinchannel=true
 songinstatus=false
 token=NTUzOTkyMTI0MDk4NDEyNTQ0.D2WLAw.3iXHnLrspcB0SAwk0LGpuL2aZQ0
