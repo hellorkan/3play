@@ -1,6 +1,6 @@
 owner=460606140666085378
-prefix=3
-game=Mushko Music.
+prefix=Ra
+game=Navi Music.
 stayinchannel=true
 songinstatus=false
 token=NDg2NTg4NzExMDE5MDg1ODQ0.D2wsdA.YkakYbog-dvhO33YJIGtC5GGF3Q
