@@ -3,4 +3,4 @@ prefix=Ha
 game=
 stayinchannel=true
 songinstatus=false
-token=NjE4NTMzMjcxMTYwMjI1ODAy.XXQBAA.jj3qO281Gti_-RUU8uYVsHWPnKo
+token=NjE4NTMzMjcxMTYwMjI1ODAy.XXQBqQ.gKWuYwmHX_Qq2p85MZVxCWtBWoA
