@@ -1,6 +1,6 @@
 owner=460606140666085378
-prefix=Ra
-game=Navi Music.
+prefix=Ha
+game=
 stayinchannel=true
 songinstatus=false
-token=NDg2NTg4NzExMDE5MDg1ODQ0.D2wsdA.YkakYbog-dvhO33YJIGtC5GGF3Q
+token=NjE4NTMzMjcxMTYwMjI1ODAy.XXQBAA.jj3qO281Gti_-RUU8uYVsHWPnKo
